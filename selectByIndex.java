@@ -23,9 +23,7 @@ public class selectByIndex {
       for (int i = 0; i <=11; i++) {
     	  s.selectByIndex(i);
 	}
-       
-       
-         
+                
 
 	}
 
